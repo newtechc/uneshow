@@ -1,0 +1,42 @@
+.wrapper { width:100%; overflow:hidden;}
+row-1 { height:136px; }
+#header .logo { float:left;margin-left:30%;}
+#header .langue { float:right; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:25px; line-height:1em; color:#c30000; padding:43px 48px 0 0; letter-spacing:-1px;}
+#header .media{float:right;letter-spacing:-1px;margin-top:7%; position:absolute; top:1%; right:0.5%;}
+#header .media a { color:#000000; text-decoration:none; font-style:normal;}
+#header .email  {padding-top:5px; padding-bottom:5px;background-color:#000000;}
+.form-control{width: 250px;}
+.btn{color:#fff;background-color:#5cb85c;border-color:#4cae4c;}
+#header .row-3 .indent { padding:1px 0 0 13px;background-color: #666666;}
+ul { list-style-type: none; margin: 0; padding: 0;overflow: hidden;background-color: #666666;}
+.nav li {float: right;border-right: 1px solid #bbb;}
+ li a, .dropbtn {display: inline-block;color: white;text-align: center; padding: 14px 16px;text-decoration: none;}
+.nav li a:hover, .dropdown:hover .dropbtn {background-color:#8a8a8a;}
+.nav li.dropdown {display: inline-block;}
+.dropdown-content {display: none;position: absolute;background-color: #f9f9f9;min-width: 160px;box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);z-index: 1;}
+.dropdown-content a {color: black;padding: 12px 16px;text-decoration: none;display: block;text-align: left;}
+.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown:hover .dropdown-content {display: block;}
+
+.espace1 {padding-top:2px; padding-bottom:2px; background-color:white;}
+.espace {padding-top:15px; padding-bottom:15px; background-color:black;}
+
+
+#content .indent { padding:17px 0 20px 0;}
+h2 { font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; color:black; font-size:30px; line-height:1em; font-weight:normal; margin-bottom:30px; letter-spacing:-1px;margin-left:100px;}
+.img-indent { margin:0 10px 0 8px; float:left;}
+.img-indent_2 { margin:0 15px 0 120px; float:left;}
+.alt-top { padding-top:9px;}
+.clear { clear:both;}
+.line-hor { background:#4d3525; height:1px; overflow:hidden; font-size:0; line-height:0; margin:21px 0 16px 0;}
+
+
+#footer  {background-color:#333439;padding-bottom:10px;}
+#footer  {padding-right:700px; }
+#footer .info  h2 { color:white; text-decoration:underline; margin-left:45px;}
+#footer .info p { color:#CCCCCC;margin-left:45px;}
+#footer .email2  {padding-left:10px;padding-right:10px;position:absolute;left:58%;bottom:-320%;}
+#footer .media2 {padding-left:10px;padding-right:10px;position:absolute;left:58%;bottom:-330%;}
+#footer .insta_titre {float:right;position:absolute;left:59%;bottom:-340%;}
+ h3 {color:white;}
+#footer .insta {float:right;position:absolute;left:59%;bottom:-360%;}
